@@ -12,7 +12,7 @@ The user asked on October 24, 2026: "now give me same files for Parvana Babali s
 
 **AI response and changes:** Created a separate copy of the five assignment files; replaced the student name, student number, and proposed repository slug throughout. Replaced the prior student's prompt history with the actual request for this version. Reviewed file references and checked for the previous student's identifiers. The student must independently review and personalize this record before submission.
 
-**Important:** This is a documentation draft. A Parvana GitHub repository has not been created or verified, and no RStudio run or R Markdown render for Parvana has been observed. Do not claim either is complete without evidence.
+**Important:** This is a documentation draft. The Parvana GitHub repository has been created and five files uploaded and verified via GitHub API on October 24, 2026. No RStudio run or R Markdown render for Parvana has been observed. Do not claim either is complete without evidence.
 
 ## Prompts recommended by the assignment (examples, not falsely claimed as separately submitted)
 
@@ -38,7 +38,7 @@ The user asked on October 24, 2026: "now give me same files for Parvana Babali s
 | Check | Status | Evidence / changes |
 | --- | --- | --- |
 | Compare outline with a tidyverse README | Pending student check | Compare against linked ggplot2 repository |
-| Preview README on GitHub | Pending | Add date and any formatting corrections |
+| GitHub file publication | Completed | Five files uploaded to ParvanaB/markdown-buddy-parvana-babali and checked through GitHub API |\n| Preview README on GitHub | Pending student check | Inspect rendered formatting |
 | Run R script | Pending | Record output inspection |
 | Knit R Markdown to HTML | Pending | Record render result and fixes |
 | Static file consistency review | Completed (AI-assisted) | Checked matching filenames, R chunks, and synthetic inputs; student must independently spot-check |
